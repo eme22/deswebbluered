@@ -1,0 +1,18 @@
+body {
+    padding-top: 70px;
+}
+
+body.double {
+    padding-top: 320px;
+}
+
+.light-blue-gradient {
+    background-image: url('../imagenes/registro_imagen.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+}
